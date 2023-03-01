@@ -1,6 +1,8 @@
 node_modules/
-db/app.db
-db/test.db
 Annotations/
+dist/
+
+db/*.db
+
 .env
 .env.test
